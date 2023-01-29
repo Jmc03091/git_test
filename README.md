@@ -1,3 +1,3 @@
 # git_test
 First GitHub Repo
-Hello World!
+Hello World and Hello Odin!;
